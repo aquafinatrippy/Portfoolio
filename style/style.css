@@ -1,0 +1,7 @@
+.bgpic {
+  background: url("../images/laptop.jpg");
+
+  background-size: cover;
+  height: 75vh;
+  text-align: center;
+}
