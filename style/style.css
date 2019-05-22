@@ -1,7 +1,19 @@
+/* global */
 body{
   font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
 }
-
+.pealkiri{
+  font-family: 'Cute Font', cursive;
+  font-size: 68px;
+  text-align: center;
+}
+/* navbar */
+.navbar{
+  background-color: #fff;
+}
+/* hero */
 .bgpic {
   background: url("../images/hero.jpg");
   background-position: center;
@@ -12,4 +24,14 @@ body{
 }
 .hero img{
   margin-top: 100px;
+}
+
+/* Portfoolio */
+.card{
+  text-align: center;
+}
+.portfoolio{
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
 }
