@@ -76,7 +76,7 @@ hr.line:before {
   background-color: rgb(233, 236, 239);
 }
 /* 4k */
-@media only screen and (min-width: 1800px){
+@media only screen and (min-width: 1990px){
   .text{
     background-color: rgba(51, 102, 255, 0.2);
   }
