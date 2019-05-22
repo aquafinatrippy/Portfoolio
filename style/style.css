@@ -58,18 +58,15 @@ hr.line:before {
 .info{
   text-align: center;
 }
-.info a{
-  border: solid 2px;
-  border-radius: 20%;
-  padding: 10px;
-}
-.info a:hover{
-  background-color: aqua;
-}
+
 /* kontakt */
 .kontakt{
   text-align: center;
 }
 .kontakt i{
   font-size: 50px;
+}
+/* footer */
+.footer{
+  background-color: rgb(233, 236, 239);
 }
