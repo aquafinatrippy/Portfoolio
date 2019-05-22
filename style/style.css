@@ -27,6 +27,11 @@ hr.line:before {
   border-width: 0 0 1px 0; 
   border-radius: 20px; 
 }
+.text{
+  font-family: 'Anton', sans-serif;
+  color: #fff;
+  margin-top: 20px; 
+}
 /* navbar */
 .navbar{
   background-color: #fff;
@@ -69,4 +74,10 @@ hr.line:before {
 /* footer */
 .footer{
   background-color: rgb(233, 236, 239);
+}
+/* 4k */
+@media only screen and (min-width: 1800px){
+  .text{
+    background-color: rgba(51, 102, 255, 0.2);
+  }
 }
