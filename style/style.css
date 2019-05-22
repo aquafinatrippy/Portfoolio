@@ -47,6 +47,7 @@ hr.line:before {
 /* Portfoolio */
 .card{
   text-align: center;
+  margin: 0 auto;
 }
 .portfoolio{
   display: flex;
@@ -64,4 +65,11 @@ hr.line:before {
 }
 .info a:hover{
   background-color: aqua;
+}
+/* kontakt */
+.kontakt{
+  text-align: center;
+}
+.kontakt i{
+  font-size: 50px;
 }
