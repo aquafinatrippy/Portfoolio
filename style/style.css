@@ -1,7 +1,15 @@
-.bgpic {
-  background: url("../images/laptop.jpg");
+body{
+  font-family: 'Roboto', sans-serif;
+}
 
+.bgpic {
+  background: url("../images/hero.jpg");
+  background-position: center;
   background-size: cover;
-  height: 75vh;
+  height: 85vh;
   text-align: center;
+  color: #007bff;
+}
+.hero img{
+  margin-top: 100px;
 }
