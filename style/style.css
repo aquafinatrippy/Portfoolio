@@ -36,6 +36,9 @@ hr.line:before {
 .navbar{
   background-color: #fff;
 }
+.keeled{
+  list-style: none;
+}
 /* hero */
 .bgpic {
   background: url("../images/hero.jpg");
